@@ -1,0 +1,7 @@
+gymnasium[classic-control]
+stable-baselines3
+huggingface_sb3
+fastapi
+uvicorn
+imageio
+pygame
